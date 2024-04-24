@@ -1,0 +1,7 @@
+created textfile3 to check the code is saved or not without press ctrl+s
+confirmed the codes are not showing in textfile3,  its not showing in local repository
+Tired to add and check, still same
+Tired to commit and check, still same
+Tired to push and check, still same, its not showing in local repository and remore github
+Last step finally save the file and check, its worked showing in local repository
+needs to add - commit - push, and then only codes are showing in remote repository
