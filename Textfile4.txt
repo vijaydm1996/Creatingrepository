@@ -1,0 +1,5 @@
+Creating Textfile4.txt 
+checking the Add A - simple and Modified M - simple
+steps:-
+create text file - add = added
+Modify the file - add = modified
