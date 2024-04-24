@@ -1,0 +1,2 @@
+creating textfile2 in local git reposoitory
+Create - Add - Commit - push
