@@ -3,3 +3,6 @@ checking the Add A - simple and Modified M - simple
 steps:-
 create text file - add = added
 Modify the file - add = modified
+Modify the file and tired commit - push, its not works, 
+its only showing the codes ate last added using git add - commit - push
+Finally after modify the file - save the file - add - commit - push, its worked
